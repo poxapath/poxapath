@@ -7,7 +7,7 @@
 <Br>
 <h1>Sobre mim! 😎</h1>
 
-- 🏫: Sou estudante de DESINVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA. <br>
+- 🏫: Sou estudante de DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA. <br>
 - 🔭: Estou atualmente trabalhando como Analista de Crédito no Consórcio Magalu.<br>
 - 🤔: E aceito orientações nos conteúdos que estou aprendendo! 😅<br>
 - 😄  Pronouns: Ela/dela
