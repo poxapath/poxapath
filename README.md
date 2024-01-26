@@ -25,33 +25,6 @@
 <Br>
 <hr>
 <Br>
-<h1 align="center">Minhas skills! 🤸‍♂</h1>
-<Br>
- <p>🔄 In progress 🌱👾</p>  
-  
-<Br>
-<hr>
-<Br>
-<h1>Ferramentas que uso! 🛠️</h1>
-<Br>
-  <p>🔄 In progress 🌱👾</p>  
-
-<Br>
-<hr>
-<Br>
-<h1>Alguns dos meus projetos! 🎨</h1>
-<Br>
-  <p>🔄 In progress 🌱👾</p>  
-
-<Br>
-<hr>
-<Br>
-<h1>Certificações! 🏆</h1>
-<Br>
-  
- <p>🔄 In progress 🌱👾</p>  
-
-<Br>
   <h1> Obrigada!💃  </h1>
 <Br>
 
